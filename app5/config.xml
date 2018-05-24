@@ -32,5 +32,5 @@
    <!--<plugin name="cordova-plugin-geolocation" source="npm" />-->
    <!--Third part plugins-->
    <!--Colocar icono app-->
-   <icon src="res/android/mdpi.png" />
+   <icon src="app5/res/android/mdpi.png" />
    </widget>
